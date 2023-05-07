@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
-<h3 align="center">Software Developer | Database Architecture | Cloud Computing | Back-end Developer | API Developer | Discord.JS Developer</h3>
+<h3 align="center">MERN Stack | Cloud Computing | Back-end Developer | API Developer | Discord.JS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrajhrj&label=Profile%20views&color=0e75b6&style=flat" alt="harshrajhrj" /> </p>
 
