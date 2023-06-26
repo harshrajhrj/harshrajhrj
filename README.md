@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [logger.log](https://loggerlog.me)
 
-- 📫 How to reach me **rajharsh.footballer@gmail.com**
+- 📫 How to reach me **aec.cse.harshraj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
