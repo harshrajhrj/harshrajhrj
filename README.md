@@ -13,14 +13,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/harshrajhrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshrajhrj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harsh-raj-60b29020b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-raj-60b29020b" height="30" width="40" /></a>
-<a href="https://fb.com/rajharsh.footballer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajharsh.footballer" height="30" width="40" /></a>
-<a href="https://instagram.com/harsh_raj_hrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_raj_hrj" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harsh_raj_hrj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harsh_raj_hrj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harsh_raj_hrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harsh_raj_hrj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harsh_raj_hrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harsh_raj_hrj" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rajharshfootballer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajharshfootballer" height="30" width="40" /></a>
+<a href="https://twitter.com/harshrajhrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshrajhrj" height="30" width="40" target="_blank"/></a>
+<a href="https://linkedin.com/in/harsh-raj-60b29020b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-raj-60b29020b" height="30" width="40" target="_blank"/></a>
+<a href="https://fb.com/rajharsh.footballer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajharsh.footballer" height="30" width="40" target="_blank"/></a>
+<a href="https://instagram.com/harsh_raj_hrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_raj_hrj" height="30" width="40" target="_blank"/></a>
+<a href="https://www.codechef.com/users/harsh_raj_hrj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harsh_raj_hrj" height="30" width="40" target="_blank"/></a>
+<a href="https://www.hackerrank.com/harsh_raj_hrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harsh_raj_hrj" height="30" width="40" target="_blank"/></a>
+<a href="https://www.leetcode.com/harsh_raj_hrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harsh_raj_hrj" height="30" width="40" target="_blank"/></a>
+<a href="https://auth.geeksforgeeks.org/user/rajharshfootballer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajharshfootballer" height="30" width="40" target="_blank"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
