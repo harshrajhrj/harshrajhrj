@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
-<h3 align="center">Research and Development Enthusiast | MERN Stack | Cloud Computing | API Development | Discord.js</h3>
+<h3 align="center">AI Researcher | Research and Development Enthusiast | MERN | Cloud Computing | API Development | Discord.js</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshrajhrj&show_icons=true&locale=en&layout=compact" alt="harshrajhrj" /></p>
 
