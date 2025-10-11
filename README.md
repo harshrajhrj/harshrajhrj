@@ -178,6 +178,7 @@ My primary area of interest lies at the intersection of AI and systems architect
 -   **Operating Systems (OS):** In-depth understanding of process management, memory management, and concurrency.
 -   **Database Management Systems (DBMS):** Knowledgeable in database design, normalization, and query optimization.
 -   **Computer Networks (CN):** Familiar with network protocols, TCP/IP stack, and client-server architecture.
+-   **Computer Architecture (COA):** Conceptual understanding of Instruction Set Architecture, Pipelining, Memory and I/O Organization
 
 ---
 
