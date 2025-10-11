@@ -49,11 +49,11 @@ My primary area of interest lies at the intersection of AI and systems architect
 - Created over 20 API endpoints and secured them using JWT.
 - **Tech Stack:** `Node.js`, `Express.js`, `REST API`, `OAuth (Google API)`
 
----
+<!-- --->
 
-### 🚀 Projects
+<!-- ### 🚀 Projects>
 
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏆 Project Title 1</h3>
@@ -90,7 +90,7 @@ My primary area of interest lies at the intersection of AI and systems architect
   <a href="https://github.com/harshrajhrj?tab=repositories">
     <b>... and many more!</b>
   </a>
-</p>
+</p> -->
 
 ---
 
