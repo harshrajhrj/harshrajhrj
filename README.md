@@ -17,6 +17,10 @@ When I'm not in front of a screen, I enjoy [a-personal-hobby, e.g., exploring ne
     -   **Institution:** Indian Institute of Technology, Bhubaneswar
     -   **Expected Graduation:** 2026
     -   **Core Coursework:** Advanced DSA, Machine Learning, Deep Learning, Cloud Computing, High Performance Computing.
+-   **Bachelor of Technology (B.Tech) in Computer Science and Engineering**
+    -   **Institution:** Asansol Engineering College, Asansol
+    -   **Graduated:** 2024
+    -   **Core Coursework:** Data Structures, Database Management System, Computer Networks, Machine Learning, Software Engineering.
 
 ---
 
@@ -35,11 +39,17 @@ My primary area of interest lies at the intersection of AI and systems architect
 
 *(Remove this section if you don't have professional experience yet)*
 
-**[Your Job Title]** @ **[Company Name]** (*[Start Date] – [End Date]*)
-- Led the development of [Feature X], resulting in a [Metric Y]% improvement in [Area Z].
-- Optimized [Process A] using [Technology B], reducing latency by [Metric C].
-- Collaborated with cross-functional teams to design and implement [System D].
-- **Tech Stack:** `[Tech 1]`, `[Tech 2]`, `[Tech 3]`
+**Teaching Assistant** @ **IIT Bhubaneswar** (*July, 2024 – Current*)
+- Cooperating Advanced Computer Architecture by designing course materials and conducting biweekly tutorials.
+- Conducted the Computer Networks lab, including semester project evaluations for 7 students.
+- Assisted in the Programming and Data Structures lab for more than 80 students, resolving queries related to C
+ programming.
+
+**Back-end Intern** @ **Celebal Technologies** (*June, 2023 – Aug 2023*)
+- Designed a Hotel Room Booking server that handles authentication and data delivery to the client.
+- Integrated a service-oriented architecture to handle user authentication and process mock payments.
+- Created over 20 API endpoints and secured them using JWT.
+- **Tech Stack:** `Node.js`, `Express.js`, `REST API`, `OAuth (Google API)`
 
 ---
 
