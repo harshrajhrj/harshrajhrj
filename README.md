@@ -37,8 +37,6 @@ My primary area of interest lies at the intersection of AI and systems architect
 
 ### 💼 Experience
 
-*(Remove this section if you don't have professional experience yet)*
-
 **Teaching Assistant** @ **IIT Bhubaneswar** (*July, 2024 – Current*)
 - Cooperating Advanced Computer Architecture by designing course materials and conducting biweekly tutorials.
 - Conducted the Computer Networks lab, including semester project evaluations for 7 students.
@@ -171,14 +169,15 @@ My primary area of interest lies at the intersection of AI and systems architect
   </tr>
 </table>
 
-<details>
-  <summary><b>Click to see my Core CS Knowledge</b></summary>
-  - Data Structures & Algorithms (DSA)
-  - Object-Oriented Programming (OOPs)
-  - Operating Systems (OS)
-  - Database Management Systems (DBMS)
-  - Computer Networks (CN)
-</details>
+---
+
+### 🏗️ Core CS Fundamentals
+
+-   **Data Structures & Algorithms (DSA):** Proficient in designing and implementing efficient data structures and algorithms to solve complex computational problems.
+-   **Object-Oriented Programming (OOPs):** Strong grasp of OOP principles for building modular, reusable, and maintainable software.
+-   **Operating Systems (OS):** In-depth understanding of process management, memory management, and concurrency.
+-   **Database Management Systems (DBMS):** Knowledgeable in database design, normalization, and query optimization.
+-   **Computer Networks (CN):** Familiar with network protocols, TCP/IP stack, and client-server architecture.
 
 ---
 
