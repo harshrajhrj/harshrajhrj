@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Harsh Raj 👋</h1>
-<h3 align="center">Pursuing M.Tech in Artificial Intelligence</h3>
+<h3 align="center">Passionate AI Researcher</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 I'm a lifelong learner with a passion for unraveling complex puzzles. I believe technology's true power lies in its ability to solve real-world problems, and I'm driven to build solutions that are not only intelligent but also efficient and accessible at their core. My journey is all about diving deep into how systems work and then rebuilding them to be faster and smarter.
 
-When I'm not in front of a screen, I enjoy [a-personal-hobby, e.g., exploring new hiking trails, reading sci-fi novels, or playing chess].
+When I'm not in front of a screen, I enjoy reading research papers, tech blogs and articles, workout in gym and playing basketball.
 
 ---
 
@@ -185,7 +185,7 @@ My primary area of interest lies at the intersection of AI and systems architect
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="[[your-linkedin-url]](https://www.linkedin.com/in/harshrajhrj/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/harshrajhrj/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <!-- <a href="[your-portfolio-website]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a> -->
   <a href="mailto:harshrajhrj.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
