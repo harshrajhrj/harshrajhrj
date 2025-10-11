@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Harsh Raj 👋</h1>
-<h3 align="center">Pursuing an M.Tech in Artificial Intelligence, graduating in 2026</h3>
+<h3 align="center">Pursuing M.Tech in Artificial Intelligence</h3>
 
 ---
 
